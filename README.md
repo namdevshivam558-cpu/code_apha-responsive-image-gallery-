@@ -1,1 +1,1 @@
-# code_apha-responsive-image-gallery-
+# code_alpha-responsive-image-gallery-
